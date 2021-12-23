@@ -18,7 +18,7 @@ Provides regex filter to log specific events only.
 A convinient wrapper for live debugging and parsing of Wayland protocol data.  
 
 #### Thanks
-Thanks a bunch [@sde1000](https://github.com/sde1000) for writing [python-wayland](https://github.com/sde1000/python-wayland) which gave a lot of inpiration and a quick codified overview of the Wayland protocol itself.
+Thanks a bunch [@sde1000](https://github.com/sde1000) for writing [python-wayland](https://github.com/sde1000/python-wayland) which gave a lot of inspiration and a quick codified overview of the Wayland protocol itself.
 
 #### Dependencies for wayland_proxy_parser_xml.py
 * [python-wayland](https://github.com/sde1000/python-wayland)
