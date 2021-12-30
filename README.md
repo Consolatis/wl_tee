@@ -176,3 +176,7 @@ $ ./wayland_proxy.py tasklist 2>/dev/null | ./wayland_proxy_parser_basic.py
   oid          5   event  2 args b''
 ^C
 ```
+
+This repository has two homes:
+- https://github.com/Consolatis/wl_tee
+- https://codeberg.org/Consolatis/wl_tee
